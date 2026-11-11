@@ -29,7 +29,7 @@ filosofía:   "La mejor interfaz es la que responde a las personas."
 <tr>
 <td>
 
-#### [ MANOS Y PARTÍCULAS ](https://github.com/excainer/manos-particulas)
+#### [ MANOS Y PARTÍCULAS ](https://github.com/excainer/manos-particulas-skz)
 
 Galaxia de partículas 3D controlada con gestos de las manos en tiempo real, usando solo la webcam y el navegador.
 
@@ -39,8 +39,8 @@ Galaxia de partículas 3D controlada con gestos de las manos en tiempo real, usa
 - **Rendimiento:** animación calculada en el *vertex shader* y calidad adaptativa según los fps.
 - **Pruebas automatizadas** del detector de gestos con muestras reales grabadas.
 
-<a href="https://excainer.github.io/manos-particulas/"><img src="https://img.shields.io/badge/%E2%96%B6%20DEMO%20EN%20VIVO-9d4edd?style=for-the-badge&labelColor=0a0a0f" alt="Demo en vivo" /></a>
-<a href="https://github.com/excainer/manos-particulas"><img src="https://img.shields.io/badge/C%C3%93DIGO%20FUENTE-c77dff?style=for-the-badge&logo=github&logoColor=0a0a0f" alt="Código fuente" /></a>
+<a href="https://excainer.github.io/manos-particulas-skz/"><img src="https://img.shields.io/badge/%E2%96%B6%20DEMO%20EN%20VIVO-9d4edd?style=for-the-badge&labelColor=0a0a0f" alt="Demo en vivo" /></a>
+<a href="https://github.com/excainer/manos-particulas-skz"><img src="https://img.shields.io/badge/C%C3%93DIGO%20FUENTE-c77dff?style=for-the-badge&logo=github&logoColor=0a0a0f" alt="Código fuente" /></a>
 
 </td>
 </tr>
