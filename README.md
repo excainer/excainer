@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,55:3b0a66,100:9d4edd&height=220&section=header&text=JUAN%20ESTEBAN%20GALLO%20GALEANO&fontSize=36&fontColor=c77dff&fontAlignY=42&animation=fadeIn&stroke=9d4edd&strokeWidth=1&desc=DESARROLLADOR%20CREATIVO%20%2F%2F%20GR%C3%81FICOS%203D%20%2F%2F%20VISI%C3%93N%20POR%20COMPUTADORA&descSize=14&descAlignY=64&descColor=e9d5ff" alt="Juan Esteban Gallo Galeano" width="100%" />
+<img src="./banner.svg" alt="Juan Esteban Gallo Galeano — desarrollador creativo: gráficos 3D, WebGL y visión por computadora" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2600&pause=800&color=c77dff&center=true&vCenter=true&width=600&lines=%3E+inicializando+perfil...;%3E+conexi%C3%B3n+establecida_;%3E+construyendo+interfaces+que+responden+al+cuerpo;%3E+Three.js+%2F%2F+WebGL+%2F%2F+MediaPipe" alt="Terminal" />
 
@@ -63,7 +63,6 @@ Galaxia de partículas 3D controlada con gestos de las manos en tiempo real, usa
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9d4edd,45:3b0a66,100:0a0a0f&height=120&section=footer" width="100%" alt="" />
 
 <sub><code>// fin de la transmisión</code></sub>
 
